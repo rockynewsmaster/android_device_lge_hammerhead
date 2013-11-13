@@ -552,8 +552,4 @@ cleanup:
     free(filler);
     chip_deleteall();
     return rc;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> bc2134a... Add dtbtool
