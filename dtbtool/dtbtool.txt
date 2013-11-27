@@ -155,8 +155,4 @@ Android - Table of Device Tree
      3) select the highest soc rev in QCDT that is
         equal to or lower than the runtime detected soc rev
   6) Load the matching DTB blob to the tags addr
-<<<<<<< HEAD
   7) LK pass the correct DTB to the kernel
-=======
-  7) LK pass the correct DTB to the kernel
->>>>>>> bc2134a... Add dtbtool
