@@ -38,5 +38,5 @@ PRODUCT_PROPERTY_OVERRIDES += ro.buildzipid=carbon.hammerhead.$(shell date +%m%d
 # overrides
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=hammerhead \
-    PRIVATE_BUILD_DESC="hammerhead-user 4.4 KRT16M 893803 release-keys" \
-    BUILD_FINGERPRINT="google/hammerhead/hammerhead:4.4/KRT16M/893803:user/release-keys"
+    PRIVATE_BUILD_DESC="hammerhead-user 4.4.2 KOT49H 937116 release-keys" \
+    BUILD_FINGERPRINT="google/hammerhead/hammerhead:4.4.2/KOT49H/937116:user/release-keys"
