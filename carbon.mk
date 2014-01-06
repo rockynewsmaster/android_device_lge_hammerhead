@@ -18,6 +18,10 @@
 # name
 PRODUCT_RELEASE_NAME := N5
 
+# Boot animation
+TARGET_SCREEN_HEIGHT := 1920
+TARGET_SCREEN_WIDTH := 1080
+
 # device
 $(call inherit-product-if-exists, device/lge/hammerhead/full_hammerhead.mk)
 
