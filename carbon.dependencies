@@ -6,6 +6,12 @@
    "revision": "kk4.4"
  },
  {
+   "remote": "gh",
+   "repository": "SlimRoms/android_prebuilt",
+   "target_path": "prebuilt",
+   "revision": "kk4.4"
+ },
+ {
    "repository": "CarbonDev/proprietary_vendor_lge",
    "target_path": "vendor/lge"
  }

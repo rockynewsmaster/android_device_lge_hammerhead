@@ -117,6 +117,7 @@ BOARD_CUSTOM_BOOTIMG_MK := device/lge/hammerhead/mkbootimg.mk
 # Kernel inline build
 TARGET_KERNEL_SOURCE := kernel/lge/hammerhead
 TARGET_KERNEL_CONFIG := slim_hammerhead_defconfig
+TARGET_KERNEL_CUSTOM_TOOLCHAIN := linaro-4.7-13.04/bin/arm-linux-gnueabihf-
 
 # Krait optimizations
 TARGET_USE_KRAIT_BIONIC_OPTIMIZATION := true
